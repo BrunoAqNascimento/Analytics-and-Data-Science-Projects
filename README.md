@@ -9,9 +9,9 @@
 
 # Bruno Nascimento
 
-I'm Bruno, I'm a Production Engineer, graduated from the Federal University of Ouro Preto.
+*I'm Bruno, I'm a Production Engineer, graduated from the Federal University of Ouro Preto.*
 
-My experience is concentrated in 3 main areas: planning and control of key-performance indicators, management of efficiency and effectiveness of processes and execution of continuous improvement projects.
+My experience is concentrated in 3 main areas: planning and control of key-performance indicators, efficient and effective process management and execution of continuous improvement projects.
 
 Data analysis has always been part of my routine, and I am increasingly in love with the diverse and efficient methodologies and frameworks that have been emerging. The purpose of this portfolio is to publicize my continuous evolution in Data Science and Analytics. Currently, I am a Project and Business Analytics Analyst at LATAM Airlines.
 
