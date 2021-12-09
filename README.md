@@ -27,4 +27,4 @@ Everything about analyzing data and scenarios, identifying opportunities for imp
 
 ## Projetos:
 
-* **[Exploratory Data Analysis of properties advertised on the Airbnb Platform in NY]()**
+* **[Exploratory Data Analysis of properties advertised on the Airbnb Platform in NY](https://github.com/BrunoAqNascimento/EDA---Airbnb)**
